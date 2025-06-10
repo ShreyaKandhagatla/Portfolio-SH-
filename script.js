@@ -38,7 +38,7 @@ ScrollReveal().reveal('.home-img, .skills-container, .projects-box, .connect', {
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 const typed=new Typed('.multiple-text',{
-    strings:['Frontend Developer','Backend Developer'],
+    strings:['Web Development','Software Building','Front-end Development','UI/UX Designing','Cloud Computing'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
